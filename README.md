@@ -4,7 +4,7 @@
 
 ## Class diagram
 
-![Class diagram](class-diagram.png)
+![Class diagram](class-diagram.svg)
 
 ## Create Maven project with Intellij Idea
 
