@@ -1,4 +1,4 @@
-# Wiring beans in the configuration files
+# Wiring beans in the configuration file
 
 > This project is based on chapter **3.1. Implementing relationships among beans defined in the configuration file** from book **Spring Starts here (2021)** by Laurentiu Spilca.
 
